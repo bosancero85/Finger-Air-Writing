@@ -1,0 +1,25 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtuelle Umgebung
+venv/
+env/
+ENV/
+
+# PyInstaller / Build-Dateien
+build/
+dist/
+*.spec
+
+# IDEs
+.vscode/
+.idea/
+
+# Betriebssystem
+Thumbs.db
+.DS_Store
+
+# Log-Dateien
+*.log
